@@ -125,17 +125,17 @@ public class Connect4 implements ActionListener {
 					int buttonPos[] = new int[4];
 					for (int i = 0; i < 4; i++) {
 						buttonPos[i] = pos;
-						if (buttonRow[pos] != buttonRow[pos - 1]) {
+						if (buttonRow[pos] != buttonRow[pos + 1]) {
 							break;
 						}
 						if (count >= 3) {
 							setXonChips(buttonPos);
 							return true;
 						}
-						if (buttons[pos].getIcon() == buttons[pos - 1].getIcon()) {
+						if (buttons[pos].getIcon() == buttons[pos + 1].getIcon()) {
 							count++;
 						}
-						pos = pos - 1;
+						pos = pos + 1;
 					}
 				}
 			}
