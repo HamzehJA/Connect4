@@ -69,4 +69,5 @@ This project is implemented in **Java** using **Object-Oriented Programming (OOP
 ---
 
 ## Project Structure
+Connect4/ ├── src/ │ ├── Connect4.java # Main game logic │ ├── Connect4GUI.java # GUI layout and display │ ├── Main.java # Main class to start the game │ └── Icons/ # Folder containing image assets for the game │ ├── Connect4.1.png # Image for the Connect 4 board/logo │ ├── RedbuttonFrame.png # Image for the red chip │ └── YbuttonFrame.png # Image for the yellow chip ├── README.md # Project documentation └── LICENSE # (Optional) License file for your project
 
