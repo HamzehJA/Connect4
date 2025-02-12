@@ -1,6 +1,7 @@
 # Connect4 Game in Java
 
-![Connect4 Logo](src/Icons/Connect4.1.png)
+![image](https://github.com/user-attachments/assets/23a169a6-6282-4dc5-a048-b20b4cae94ba)
+
 
 ## Overview
 Connect4 is a classic 2-player game where players take turns to drop colored chips into a grid, and the first player to connect four chips vertically, horizontally, or diagonally wins the game.
@@ -35,7 +36,8 @@ This project is implemented in **Java** using **Object-Oriented Programming (OOP
 
 # Connect4 Game in Java
 
-![Connect4 Logo](src/Icons/Connect4.1.png)
+![image](https://github.com/user-attachments/assets/6f011636-36da-4c68-937d-9b1e79678504)
+
 
 ## Overview
 Connect4 is a classic 2-player game where players take turns to drop colored chips into a grid, and the first player to connect four chips vertically, horizontally, or diagonally wins the game.
